@@ -1,0 +1,13 @@
+gradio
+groq
+joblib
+keras==2.10.0
+keras-tuner
+matplotlib
+numpy
+pandas
+scikit-learn==1.5.0
+scipy
+seaborn
+tensorflow==2.10.0
+xgboost
